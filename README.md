@@ -1,17 +1,17 @@
-# 💻 Sistema de Cadastro em C++
+# 💻 C++ Registration System
 
-Programa simples em C++ que permite cadastrar e listar nomes através de um menu interativo no console.
+A simple C++ program that allows users to register and list names through an interactive console menu.
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 - C++
 
-## 🎯 Funcionalidades
-- Cadastro de nomes
-- Listagem de dados
-- Menu interativo
+## 🎯 Features
+- Name registration
+- Data listing
+- Interactive menu
 
-## 🚀 Objetivo
-Praticar lógica de programação, uso de vetores e interação com o usuário.
+## 🚀 Objective
+Practice programming logic, use of vectors, and user interaction in C++.
 
 ## 📌 Status
-Concluído ✅
+Completed ✅
